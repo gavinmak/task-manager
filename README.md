@@ -10,3 +10,5 @@ In the furture, the user will be able to:
  * view completed tasks
  * create due dates
  * oragnize and sort tasks
+
+![Current screenshot](https://i.imgur.com/cpO0CAY.png)
